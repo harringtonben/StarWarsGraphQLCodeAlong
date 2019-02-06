@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWars.Core/StarWars.Core.csproj": {
+            "projectPath": "/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWars.Core/StarWars.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
