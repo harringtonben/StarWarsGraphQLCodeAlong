@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="GraphQL, Version=2.4.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\.nuget\packages\graphql\2.4.0\lib\netstandard2.0\GraphQL.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

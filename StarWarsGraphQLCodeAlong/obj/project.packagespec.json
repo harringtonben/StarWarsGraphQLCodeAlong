@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong.csproj",
+    "projectName": "StarWarsGraphQLCodeAlong",
+    "projectPath": "/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong.csproj",
+    "outputPath": "/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "GraphQL": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
