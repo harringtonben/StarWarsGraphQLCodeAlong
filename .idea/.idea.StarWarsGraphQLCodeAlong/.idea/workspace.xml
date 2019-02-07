@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5481c68d-12fc-4b60-b94f-6f7010abc9d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StarWars.Core/GraphQLQuery.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/Controllers/GraphQLController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarWarsGraphQLCodeAlong/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarWarsGraphQLCodeAlong/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarWarsGraphQLCodeAlong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarWarsGraphQLCodeAlong/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarWars.Core/StarWarsQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StarWars.Core/StarWarsQuery.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/StarWarsGraphQLCodeAlong.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/StarWarsGraphQLCodeAlong.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="5481c68d-12fc-4b60-b94f-6f7010abc9d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StarWarsGraphQLCodeAlong/Controllers/GraphQLController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="644">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
                 <marker date="1549465508063" expanded="true" signature="6:118" ph="..." />
                 <marker date="1549465508063" expanded="true" signature="166:747" ph="{...}" />
@@ -212,19 +202,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StarWarsGraphQLCodeAlong" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="https://localhost:5001;http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -240,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549464659189</updated>
-      <workItem from="1549464660428" duration="854000" />
+      <workItem from="1549464660428" duration="900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="854000" />
+    <option name="totallyTimeSpent" value="900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,7 +253,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="1133" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35729846" />
@@ -342,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/StarWarsGraphQLCodeAlong/Controllers/GraphQLController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="644">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <marker date="1549465508063" expanded="true" signature="6:118" ph="..." />
             <marker date="1549465508063" expanded="true" signature="166:747" ph="{...}" />

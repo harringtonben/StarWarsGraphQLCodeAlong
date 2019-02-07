@@ -1,0 +1,17 @@
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.deps.json
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.runtimeconfig.json
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.runtimeconfig.dev.json
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.dll
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.pdb
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWars.Core.dll
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/bin/Debug/netcoreapp2.1/StarWars.Core.pdb
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.csprojAssemblyReference.cache
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.csproj.CoreCompileInputs.cache
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.RazorAssemblyInfo.cache
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.RazorAssemblyInfo.cs
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.AssemblyInfoInputs.cache
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.AssemblyInfo.cs
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.RazorTargetAssemblyInfo.cache
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.csproj.CopyComplete
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.dll
+/Users/benharrington/workspace/c#projects/StarWarsGraphQLCodeAlong/StarWarsGraphQLCodeAlong/obj/Debug/netcoreapp2.1/StarWarsGraphQLCodeAlong.pdb
